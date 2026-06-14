@@ -297,6 +297,18 @@ or
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/f651eb1f-42b0-4a08-beb6-203ee59f1836" />
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/5daab5c6-039b-4bcb-94fc-d167ca027614" />
 
+---
+
+# 📸 Swagger and OracleDB Snapshots
+
+<img width="1440" height="900" alt="Screenshot 2026-06-15 at 1 01 49 AM" src="https://github.com/user-attachments/assets/e668cbab-7180-4348-8290-22b837533549" />
+<img width="1440" height="900" alt="Screenshot 2026-06-15 at 1 01 57 AM" src="https://github.com/user-attachments/assets/67d693e3-bedb-4aff-ab2b-d85008ced612" />
+<img width="1440" height="900" alt="Screenshot 2026-06-15 at 1 23 53 AM" src="https://github.com/user-attachments/assets/1673f717-0da2-436a-a00a-bcb901ea0346" />
+<img width="703" height="319" alt="Screenshot 2026-06-15 at 12 44 03 AM" src="https://github.com/user-attachments/assets/7b7c3b48-8ba9-4acc-b506-4ccbd210785f" />
+<img width="753" height="273" alt="Screenshot 2026-06-15 at 12 45 41 AM" src="https://github.com/user-attachments/assets/51dd2d37-8472-4365-a37d-e02dcac4fe0d" />
+<img width="718" height="319" alt="Screenshot 2026-06-15 at 12 45 58 AM" src="https://github.com/user-attachments/assets/995adf48-2349-4c29-865a-d18df788f8df" />
+
+
 
 ---
 
