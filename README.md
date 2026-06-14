@@ -304,11 +304,39 @@ or
 <img width="1440" height="900" alt="Screenshot 2026-06-15 at 1 01 49 AM" src="https://github.com/user-attachments/assets/e668cbab-7180-4348-8290-22b837533549" />
 <img width="1440" height="900" alt="Screenshot 2026-06-15 at 1 01 57 AM" src="https://github.com/user-attachments/assets/67d693e3-bedb-4aff-ab2b-d85008ced612" />
 <img width="1440" height="900" alt="Screenshot 2026-06-15 at 1 23 53 AM" src="https://github.com/user-attachments/assets/1673f717-0da2-436a-a00a-bcb901ea0346" />
+
+#
+
 <img width="703" height="319" alt="Screenshot 2026-06-15 at 12 44 03 AM" src="https://github.com/user-attachments/assets/7b7c3b48-8ba9-4acc-b506-4ccbd210785f" />
 <img width="753" height="273" alt="Screenshot 2026-06-15 at 12 45 41 AM" src="https://github.com/user-attachments/assets/51dd2d37-8472-4365-a37d-e02dcac4fe0d" />
 <img width="718" height="319" alt="Screenshot 2026-06-15 at 12 45 58 AM" src="https://github.com/user-attachments/assets/995adf48-2349-4c29-865a-d18df788f8df" />
 
+---
 
+# 📸 Swagger -> Custom Queries' and AI API Endpoints
+
+## GET BOOKS BY CATEGORY
+
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/46baa5da-a5cc-4a4d-ba17-3d0795495c0a" />
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/3add4cb6-fa92-4c6a-aa43-21ef7edc7d51" />
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/631948ea-ee1b-4aa2-9660-475e30b6ef83" />
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/fa418f0e-69a7-456a-8b2c-b5b19f69d524" />
+
+## GET BOOKS BY TITLE
+
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/b610ad37-c1ae-4b9a-b6f9-29b1703eb668" />
+<img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/0da6909a-7944-4b3e-a5b8-47ab110b2c9b" />
+
+## GET BOOKS BY PRICE RANGE
+
+<img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/4524c2f5-f9a8-40de-9048-940e62ee9ff6" />
+<img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/6205a7eb-bc49-4ff9-a06c-7666ce5ec45e" />
+<img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/230644ef-653e-454b-acb2-44ce7676ff9e" />
+
+## GET AUTHOR REVIEW (AI)
+
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/5fc6d5a2-36d1-4bc5-b026-81fb93527b11" />
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/a6cb3005-4d11-4a66-9173-fcfa6a530808" />
 
 ---
 
