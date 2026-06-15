@@ -95,26 +95,46 @@ The relationship is maintained only from the Author side, making it a **Unidirec
 # 📂 Project Structure
 
 ```text
-src
+src/main/java
 │
 ├── controller
-│   └── AuthorController.java
+│   └── BookController.java
+│   └── AIController.java
 │
 ├── entity
 │   ├── Author.java
 │   └── Book.java
 │
+├── dto
+│   ├── AuthorDto.java
+│   └── BookRequestDto.java
+│   └── BookResponseDto.java
+│
 ├── repository
-│   ├── AuthorRepository.java
 │   └── BookRepository.java
 │
 ├── service
-│   └── AuthorService.java
+│   └── BookService.java
+│   └── impl
+│      └── BookServiceImpl.java
 │
 ├── config
 │   └── DataLoader.java
+│   └── BookMapper.java
+│   └── ModelMapperConfig.java
+│   └── MyChatConfig.java
 │
-└── Application.java
+├── exception
+│   ├── BookNotFoundException.java
+│   └── DuplicateBookException.java
+│   └── GlobalExceptionHandler.java
+
+```
+```
+src/main/resources
+│
+├──Application.properties
+
 ```
 
 ---
