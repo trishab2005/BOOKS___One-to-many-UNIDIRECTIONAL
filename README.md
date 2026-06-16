@@ -6,10 +6,10 @@
 #
 A backend application demonstrating the implementation of a **One-to-Many Unidirectional Relationship** using **Spring Boot**, **Spring Data JPA**, **Hibernate**, and **Oracle Database**.
 
-![Java](https://img.shields.io/badge/Java-17-orange)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-brightgreen)
+![Java](https://img.shields.io/badge/Java-25-orange)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-4.x-brightgreen)
 ![JPA](https://img.shields.io/badge/JPA-Hibernate-blue)
-![Oracle](https://img.shields.io/badge/Database-Oracle-red)
+![Oracle](https://img.shields.io/badge/Database-Oracle21c-red)
 ![Maven](https://img.shields.io/badge/Build-Maven-yellow)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
